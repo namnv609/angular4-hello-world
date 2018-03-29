@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  thead {
+    th {
+      padding: 6px;
+      background: #CCC;
+      border: 1px solid #F00;
+    }
+  }
+  tbody {
+    td {
+      padding: 6px;
+      border: 1px solid #000;
+    }
+  }
+}
